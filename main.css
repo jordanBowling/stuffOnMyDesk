@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif;
-    background: rgb(0, 0, 0) url(./Assets/floorBackground.jpg) fixed center;
+    background: rgb(0, 0, 0) url(./assets/floorBackground.jpg) fixed center;
     background-size: cover;
     
 }
